@@ -6,11 +6,32 @@ h3 {
     color: #022889;
 }
 
+h1{
+    margin-left: 5%;
+}
+
+nav.top{
+    float: right;
+    margin-right: 5%;
+}
+
 nav {
     font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;
     color: #000000;
+}
+
+h5.description_game{
+    color: white;
+}
+
+h6.credit{
+    font-size: xx-small;
+}
+
+h6.follow{
+    font-size: small;
 }
 
 h5,
