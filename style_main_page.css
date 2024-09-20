@@ -1,34 +1,19 @@
-h1 {
-    font-family: "Pacifico", cursive;
-    font-weight: 400;
-    font-style: normal;
-}
-
+h1,
 h3 {
     font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;
-}
-
-h5 {
-    font-family: "Open Sans", system-ui;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-    font-variation-settings:
-        "wdth" 100;
+    color: #022889;
 }
 
 nav {
     font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;
+    color: #000000;
 }
 
-a {
-    text-decoration: none;
-}
-
+h5,
 footer {
     font-family: "Open Sans", system-ui;
     font-optical-sizing: auto;
@@ -36,4 +21,10 @@ footer {
     font-style: normal;
     font-variation-settings:
         "wdth" 100;
+    color: #022889;
+
+}
+
+a {
+    text-decoration: none;
 }
