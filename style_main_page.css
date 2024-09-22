@@ -58,7 +58,19 @@ img.movie_ticket {
 
 h3.movies_head {
     position: absolute;
-    font-size: 150%;
-    top: 30%;
+    font-size: 180%;
+    top: 35%;
     left: 39.5%;
 }
+
+h5.movies_text{
+    padding-left: 20%;
+    padding-right: 25%;
+    text-align: center;
+    position: absolute;
+    top: 45%;
+    font-size: 150%;
+    line-height: 180%;
+}
+
+
