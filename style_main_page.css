@@ -55,3 +55,10 @@ img.movie_ticket {
     margin-left: auto;
     margin-right: auto;
 }
+
+h3.movies_head {
+    position: absolute;
+    font-size: 150%;
+    top: 30%;
+    left: 39.5%;
+}
