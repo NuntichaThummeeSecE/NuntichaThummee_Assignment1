@@ -6,11 +6,11 @@ h3 {
     color: #022889;
 }
 
-h1{
+h1 {
     margin-left: 5%;
 }
 
-nav.top{
+nav.top {
     float: right;
     margin-right: 5%;
 }
@@ -22,15 +22,15 @@ nav {
     color: #000000;
 }
 
-h5.description_game{
+h5.description_game {
     color: white;
 }
 
-h6.credit{
+h6.credit {
     font-size: xx-small;
 }
 
-h6.follow{
+h6.follow {
     font-size: small;
 }
 
@@ -48,4 +48,10 @@ footer {
 
 a {
     text-decoration: none;
+}
+
+img.movie_ticket {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
