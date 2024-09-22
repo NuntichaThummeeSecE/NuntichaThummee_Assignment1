@@ -13,6 +13,7 @@ h1 {
 nav.top {
     float: right;
     margin-right: 5%;
+    font-size: 135%;
 }
 
 nav {
@@ -73,4 +74,9 @@ h5.movies_text{
     line-height: 180%;
 }
 
-
+a.movie_click{
+    position: absolute;
+    top: 60%;
+    left: 86%;
+    color: white;
+}
