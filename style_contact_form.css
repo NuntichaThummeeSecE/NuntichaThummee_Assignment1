@@ -89,7 +89,7 @@ a {
     color: #022889;
 }
 
-.container{
+.container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 0;
@@ -104,13 +104,14 @@ a {
     margin-left: 20%;
 }
 
-#my_info,h5 {
+#my_info,
+h5 {
     color: white;
     text-align: center;
 }
 
-button{
-    background-color: #022889 ;
+button {
+    background-color: #022889;
     color: white;
     border-radius: 10px;
     padding: 1%;
@@ -118,6 +119,17 @@ button{
     padding-right: 2%;
 }
 
-button:hover{
+button:hover {
     color: yellow;
+}
+
+label {
+    font-family: "Open Sans", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #022889;
+    margin-right: 2%;
 }
