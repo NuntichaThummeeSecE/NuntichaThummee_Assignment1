@@ -185,8 +185,17 @@ a.game_click:hover {
     color: yellow;
 }
 
-.container_follow_me{
+.container_follow_me {
     display: flex;
     justify-content: center;
+    align-items: center;
+}
 
+img.ig, img.fb{
+    height: auto;
+    width: 50%;
+}
+
+h6.follow{
+    margin-right: 2%;
 }
