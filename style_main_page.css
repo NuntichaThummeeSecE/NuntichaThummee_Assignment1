@@ -191,11 +191,16 @@ a.game_click:hover {
     align-items: center;
 }
 
-img.ig, img.fb{
+img.ig,
+img.fb {
     height: auto;
     width: 50%;
 }
 
-h6.follow{
-    margin-right: 2%;
+h6.follow {
+    margin-right: 1%;
+}
+
+h6.credit {
+    text-align: center;
 }
