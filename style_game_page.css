@@ -42,7 +42,7 @@ nav a:hover {
     color: #022889;
 }
 
-img.writing_line {
+#writing_line {
     display: block;
     margin-left: 7%;
 }
@@ -68,16 +68,16 @@ a {
     align-items: center;
 }
 
-img.ig,
-img.fb {
+#ig,
+#fb {
     height: auto;
     width: 50%;
 }
 
-h6.follow {
+#follow {
     margin-right: 1%;
 }
 
-h6.credit {
+#credit {
     text-align: center;
 }

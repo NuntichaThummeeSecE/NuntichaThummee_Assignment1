@@ -42,20 +42,20 @@ nav a:hover {
     color: #022889;
 }
 
-img.writing_line {
+#writing_line {
     display: block;
     margin-left: 7%;
 }
 
-h5.description_game {
+#description_game {
     color: white;
 }
 
-h6.credit {
+#credit {
     font-size: xx-small;
 }
 
-h6.follow {
+#follow {
     font-size: small;
 }
 
@@ -75,21 +75,21 @@ a {
     text-decoration: none;
 }
 
-img.movie_ticket {
+#movie_ticket {
     display: block;
     margin-left: 7%;
     margin-right: 20%;
     margin-top: 4%;
 }
 
-h3.movies_head {
+#movies_head {
     position: absolute;
     font-size: 180%;
     top: 52%;
     left: 39.5%;
 }
 
-h5.movies_text {
+#movies_text {
     padding-left: 23%;
     padding-right: 25%;
     text-align: center;
@@ -99,7 +99,7 @@ h5.movies_text {
     line-height: 180%;
 }
 
-a.movie_click {
+#movie_click {
     position: absolute;
     top: 74%;
     left: 78%;
@@ -107,20 +107,20 @@ a.movie_click {
     font-family: "Open Sans", system-ui;
 }
 
-img.vinyl {
+#vinyl {
     display: flex;
     float: right;
     margin-right: 8%;
 }
 
-h3.music_head {
+#music_head {
     position: absolute;
     font-size: 180%;
     top: 125%;
     left: 13%;
 }
 
-h5.music_content {
+#music_content {
     text-indent: 15%;
     padding-left: 12%;
     padding-right: 50%;
@@ -131,7 +131,7 @@ h5.music_content {
     line-height: 180%;
 }
 
-a.music_click {
+#music_click {
     position: absolute;
     top: 150%;
     left: 72.2%;
@@ -139,14 +139,14 @@ a.music_click {
     font-family: "Open Sans", system-ui;
 }
 
-img.console {
+#console {
     display: block;
     margin-left: 6%;
     margin-right: 20%;
     margin-top: 4%;
 }
 
-h3.game_head {
+#game_head {
     position: absolute;
     font-size: 180%;
     top: 205%;
@@ -154,7 +154,7 @@ h3.game_head {
     color: white;
 }
 
-h5.game_content {
+#game_content {
     padding-left: 35%;
     padding-right: 38%;
     text-align: center;
@@ -165,7 +165,7 @@ h5.game_content {
     color: white;
 }
 
-a.game_click {
+#game_click {
     position: absolute;
     top: 234.5%;
     left: 20.3%;
@@ -173,15 +173,15 @@ a.game_click {
     font-family: "Open Sans", system-ui;
 }
 
-a.music_click:hover {
+#music_click:hover {
     color: yellow;
 }
 
-a.movie_click:hover {
+#movie_click:hover {
     color: yellow;
 }
 
-a.game_click:hover {
+#game_click:hover {
     color: yellow;
 }
 
@@ -191,16 +191,16 @@ a.game_click:hover {
     align-items: center;
 }
 
-img.ig,
-img.fb {
+#ig,
+#fb {
     height: auto;
     width: 50%;
 }
 
-h6.follow {
+#follow {
     margin-right: 1%;
 }
 
-h6.credit {
+#credit {
     text-align: center;
 }
