@@ -16,18 +16,19 @@ h1 {
 }
 
 nav.navbar {
+    margin-right: 5%;
     float: right;
+}
+
+nav li{
+    padding-right: 20%;
 }
 
 nav ul {
     list-style: none;
-    margin: 0;
+    margin-right: 20px;
     padding: 0;
-}
-
-nav li {
-    display: inline-block;
-    margin-right: 30px;
+    display: flex;
 }
 
 nav a {
@@ -35,6 +36,10 @@ nav a {
     font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;
+}
+
+nav a:hover{
+    color: #022889;
 }
 
 h5.description_game {
@@ -127,4 +132,12 @@ a.music_click {
     left: 70.2%;
     color: white;
     font-family: "Open Sans", system-ui;
+}
+
+a.music_click:hover{
+    color: yellow;
+}
+
+a.movie_click:hover{
+    color: yellow;
 }
