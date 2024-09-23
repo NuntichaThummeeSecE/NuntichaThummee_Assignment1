@@ -62,6 +62,7 @@ footer {
 a {
     text-decoration: none;
 }
+
 .container_follow_me {
     display: flex;
     justify-content: center;
@@ -80,4 +81,26 @@ a {
 
 #credit {
     text-align: center;
+}
+
+#text {
+    text-align: center;
+    font-size: 150%;
+}
+
+#right_column {
+    float: right;
+    background-color: #022889;
+}
+
+#my_info,h5 {
+    color: white;
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
 }
