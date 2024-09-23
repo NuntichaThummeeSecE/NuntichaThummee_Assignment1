@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(255, 255, 232);
+}
+
+h1,
+h3 {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #022889;
+}
+
+h1 {
+    margin-left: 10%;
+    font-size: 250%;
+}
+
+nav.navbar {
+    margin-right: 10%;
+    float: right;
+}
+
+nav li {
+    padding-right: 20%;
+}
+
+nav ul {
+    list-style: none;
+    margin-right: 20px;
+    padding: 0;
+    display: flex;
+}
+
+nav a {
+    color: #000000;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+nav a:hover {
+    color: #022889;
+}
+
+img.writing_line {
+    display: block;
+    margin-left: 7%;
+}
+
+h5,
+footer {
+    font-family: "Open Sans", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #022889;
+
+}
+
+a {
+    text-decoration: none;
+}
+.container_follow_me {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img.ig,
+img.fb {
+    height: auto;
+    width: 50%;
+}
+
+h6.follow {
+    margin-right: 1%;
+}
+
+h6.credit {
+    text-align: center;
+}
