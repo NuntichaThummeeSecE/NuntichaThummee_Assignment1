@@ -93,13 +93,15 @@ a {
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 0;
-    margin-top: 0;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 #right_column {
     background-color: #022889;
     width: 60%;
     border-radius: 20px;
+    margin-left: 20%;
 }
 
 #my_info,h5 {
