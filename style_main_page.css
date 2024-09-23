@@ -111,6 +111,7 @@ h3.music_head{
 }
 
 h5.music_content{
+    text-indent: 15%;
     padding-left: 10%;
     padding-right: 50%;
     text-align: left;
@@ -118,4 +119,12 @@ h5.music_content{
     top: 125%;
     font-size: 150%;
     line-height: 180%;
+}
+
+a.music_click {
+    position: absolute;
+    top: 134.5%;
+    left: 70.2%;
+    color: white;
+    font-family: "Open Sans", system-ui;
 }
