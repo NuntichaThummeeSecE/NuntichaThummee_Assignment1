@@ -97,6 +97,8 @@ h5 {
     font-size: 110%;
 }
 
-table{
+table {
     text-align: center;
+    width: 80%;
+    margin-left: 10%;
 }
