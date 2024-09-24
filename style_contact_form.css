@@ -104,22 +104,23 @@ a {
     margin-right: 20%;
 }
 
-#left_column{
+#left_column {
     margin-left: 35%;
+    position: relative;
 }
 
-input.placeholder{
+input.placeholder {
     height: 10%;
     width: 80%;
     margin: 2%;
 }
 
-#placeholder_m{
+textarea {
     height: 30%;
-    width: 74%;
+    width: 76%;
     margin: 2%;
+    margin-bottom: -11%;
 }
-
 
 #my_info,
 h5 {
@@ -144,4 +145,10 @@ label {
     font-family: "Open Sans", system-ui;
     color: #022889;
     margin-right: 2%;
+}
+
+button {
+    position: absolute;
+    top: 90%;
+    left: 45%;
 }
