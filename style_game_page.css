@@ -98,3 +98,10 @@ iframe{
     top: 51%;
     border-radius: 25px;
 }
+
+#game_link{
+    position: absolute;
+    left: 56.4%;
+    top: 95.2%;
+    color: white;
+}
