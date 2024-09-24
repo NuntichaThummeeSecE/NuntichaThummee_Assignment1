@@ -113,3 +113,10 @@ h3 {
 h5 {
     font-size: 110%;
 }
+
+#details{
+   margin-left: 18%;
+   margin-right: 18%;
+   font-size: 110%;
+   text-align: center;
+}
