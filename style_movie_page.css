@@ -102,3 +102,11 @@ table {
     width: 80%;
     margin-left: 10%;
 }
+
+#credit {
+    font-size: xx-small;
+}
+
+#follow {
+    font-size: small;
+}
