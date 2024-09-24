@@ -62,6 +62,7 @@ footer {
 a {
     text-decoration: none;
 }
+
 .container_follow_me {
     display: flex;
     justify-content: center;
@@ -82,3 +83,33 @@ a {
     text-align: center;
 }
 
+ol {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 15%;
+}
+
+li {
+    font-family: "Open Sans", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    color: #022889;
+    font-size: 110%;
+}
+
+iframe {
+    width: 80%;
+}
+
+h3 {
+    text-align: center;
+    font-size: 180%;
+}
+
+h5 {
+    font-size: 110%;
+}
